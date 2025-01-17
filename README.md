@@ -60,8 +60,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🤝 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/anitshrestha/)
-- [GitHub](https://github.com/anitcodes)
-- [Twitter](https://x.com/AnitShrestha01)
+- [GitHub](https://github.com/anitcodes/)
+- [Twitter](https://x.com/AnitShrestha01/)
 
 ## 🌟 Acknowledgments
 
