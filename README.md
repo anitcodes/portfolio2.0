@@ -59,9 +59,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](your-linkedin-url)
-- [GitHub](your-github-url)
-- [Twitter](your-twitter-url)
+- [LinkedIn](https://www.linkedin.com/in/anitshrestha/)
+- [GitHub](https://github.com/anitcodes)
+- [Twitter](https://x.com/AnitShrestha01)
 
 ## 🌟 Acknowledgments
 
