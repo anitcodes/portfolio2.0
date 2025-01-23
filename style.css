@@ -642,7 +642,9 @@ body.light-mode .theme-toggle i.fa-sun {
 .blog-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
 @media (max-width: 768px) {
